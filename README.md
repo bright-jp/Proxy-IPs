@@ -1,6 +1,6 @@
 # Bright Data's Proxy IPs
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations) 
 
 ## Overview
 正確なターゲティング、比類のない安定性、そして高速なレスポンスタイムを提供するよう設計されたBright Dataの[Proxy IPs](https://brightdata.jp/locations)で、シームレスなスクレイピングをご体験ください。オーストラリアからWebサイトのスクレイピングを開始し、もうブロックされないようにしましょう。
@@ -53,7 +53,7 @@
 - **3G/4G/5GのモバイルIP**
 - **24/7のグローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/au) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/au) 
 
 ## Getting Started with Bright Data's Proxy IPs
 1. **無料トライアルを開始**: クレジットカードは不要です。
